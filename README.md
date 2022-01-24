@@ -1,4 +1,4 @@
-# Hello Microverse
+# Bankist App
 
 > This is the bankist app for an upcoming startup.
 
