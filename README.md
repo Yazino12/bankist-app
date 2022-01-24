@@ -1,6 +1,10 @@
 # Bankist App
 
-> This is the bankist app for an upcoming startup.
+> This demo currently supports 3 built in users:
+
+- mj > 1111
+- jd > 2222
+- mp > 3333
 
 ## Built With
 
